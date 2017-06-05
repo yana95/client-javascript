@@ -21,8 +21,7 @@
     "node": ">= 7.0.x"
   },
   "dependencies": {
-    "request": "^2.81.0",
-    "request-promise": "^4.2.1"
+    "restler": "3.4.0"
   },
   "license": "GPL-3.0",
   "scripts": {
